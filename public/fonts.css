@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("/fonts/Roboto-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PlaywriteHU-VariableFont_wght";
+    src: url("/fonts/PlaywriteHU-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gidugu-Regular";
+    src: url("/fonts/Gidugu-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PixelifySans-VariableFont_wght";
+    src: url("/fonts/PixelifySans-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PlaywriteHRLijevaGuides-Regular";
+    src: url("/fonts/PlaywriteHRLijevaGuides-Regular.ttf") format("truetype");
+}
