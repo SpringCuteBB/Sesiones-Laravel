@@ -1,0 +1,3 @@
+¡Important!
+To see the proyect you just have to clone the repository and execute "npm run dev" in the terminal INSIDE the folder of the clone. 
+This will make a localhost with the project.
